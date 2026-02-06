@@ -4,7 +4,6 @@ import csv
 import threading
 import sys
 from mpu6050 import mpu6050
-from tensorflow.python.framework.test_util import InstallStackTraceHandler
 
 #Installs
 # sudo apt-get update
